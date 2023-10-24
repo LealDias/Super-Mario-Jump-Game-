@@ -8,8 +8,7 @@ const jump = () => {
     }, 500);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    document.addEventListener('keydown', jump);
-  });
+document.addEventListener('keydown', jump);
+
  
   
