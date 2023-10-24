@@ -16,7 +16,7 @@ JS
 
 See the link below to the game deployed on internet:
 
-https://github.com/LealDias/diegodevmariojump.github.io
+[https://github.com/LealDias/diegodevmariojump.github.io](https://lealdias.github.io/diegodevmariojump.github.io/)
 
 ## Outputs
 
